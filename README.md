@@ -1,2 +1,2 @@
-# Python-basic-programmes
-It's a basic Python project of a scientific calculator.
+# Python-basic-programs
+They're some basic Python projects
